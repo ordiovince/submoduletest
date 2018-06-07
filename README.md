@@ -1,0 +1,2 @@
+# submoduletest
+Test for submodules
